@@ -1,0 +1,26 @@
+.app {
+  max-width: 700px;
+  margin: auto;
+  text-align: center;
+}
+
+input {
+  margin: 5px;
+  padding: 8px;
+}
+
+table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+button {
+  padding: 6px 10px;
+  margin: 5px;
+}
